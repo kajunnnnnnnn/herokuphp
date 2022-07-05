@@ -2,9 +2,10 @@
 <html>
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport">
     <title>Hello World</title>
 </head>
 <body>
-  Hello World!
+  <h2 style="font-size: 18px"></h2>Hello World!
 </body>
 </html>
